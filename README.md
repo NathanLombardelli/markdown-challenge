@@ -3,7 +3,7 @@
 _Albert Einstein : Tout le monde est un géni\. Mais si vous jugez un poisson sur ses capacités à grimper à un arbre , il passera toute sa vie à croire qu'il est stupide_
 
 
-![moi](/images/moi.jpg)
+![moi](/images/moi2.jpg)
 
 
 ## Geek,Otaku,metalleux et fier de l'être 
