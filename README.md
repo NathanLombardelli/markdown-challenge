@@ -13,7 +13,7 @@ Birthday| Favorite color | Favorite food
 --------|----------------|---------------
 06/01/2000| noir| croque-messieur
 
-- [] Pinneapple on pizza :it:
+- [] Pinneapple on pizza :pinched_fingers::skull_and_crossbones:
 
 ### Hobbies
 
@@ -24,6 +24,11 @@ Birthday| Favorite color | Favorite food
 * Animés
     * One Piece
     * beaucoup d'autres ! (trop)
+* Sports
+    * Kin-ball
+    * course a pied
+    * :muscle:
+
 
 
 ### You can always count on me for finding ideas and do what i need to do.
