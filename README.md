@@ -13,7 +13,7 @@ Birthday| Favorite color | Favorite food
 --------|----------------|---------------
 06/01/2000| noir| croque-messieur
 
-- <input type="checkbox"> Pinneapple on pizza :pinched_fingers::skull_and_crossbones:
+:x: Pinneapple on pizza :pinched_fingers::skull_and_crossbones:
 
 ### Hobbies
 
